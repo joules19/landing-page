@@ -52,7 +52,7 @@ export default function KeyFeature() {
       <Container>
         <SectionHeader
           slogan="Whats the function"
-          title="Meet the feature of product"
+          title="Meet the features of our product"
         />
 
         <Grid sx={styles.grid}>
