@@ -43,7 +43,7 @@ export default function Footer() {
             Copyright by {new Date().getFullYear()} Strack
           </Text> */}
           <Text sx={styles.footer.copyright}>
-            Powered By BigFix Technologies
+            Created By Joules
           </Text>
         </Box>
       </Container>
